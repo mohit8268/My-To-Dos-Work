@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">workToDo</string>
+    <string-array name="Done">
+        <item>Yes</item>
+        <item>No</item>
+
+    </string-array>
+</resources>

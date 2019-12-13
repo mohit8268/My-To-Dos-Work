@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220280920360",
+    "firebase_url": "https://worktodo-c6aed.firebaseio.com",
+    "project_id": "worktodo-c6aed",
+    "storage_bucket": "worktodo-c6aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220280920360:android:1ef0fa798bc3cd449b181d",
+        "android_client_info": {
+          "package_name": "com.example.worktodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220280920360-e2j61ke75m3vh43mo9fr166c5jfmo3t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.worktodo",
+            "certificate_hash": "4b461f0d743737d41ab42e016232e790abcd4d77"
+          }
+        },
+        {
+          "client_id": "220280920360-lvfinsb93kvjob28j8ardukegicce3bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwtkaLZ1-tRCI8t4yRhG25QEFF9-jYM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220280920360-lvfinsb93kvjob28j8ardukegicce3bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
